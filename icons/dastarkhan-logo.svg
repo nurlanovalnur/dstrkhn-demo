@@ -1,0 +1,8 @@
+<svg width="268" height="52" viewBox="0 0 268 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6 15.5C6 10.2533 10.2533 6 15.5 6H36.5C41.7467 6 46 10.2533 46 15.5V36.5C46 41.7467 41.7467 46 36.5 46H15.5C10.2533 46 6 41.7467 6 36.5V15.5Z" fill="#F4B862"/>
+  <path d="M14.5 23.5C17.398 20.427 21.491 18.5 26.047 18.5C30.513 18.5 34.534 20.351 37.422 23.32" stroke="#163D34" stroke-width="3" stroke-linecap="round"/>
+  <path d="M14.5 28.5H37.5C36.177 34.064 31.75 37.5 26 37.5C20.25 37.5 15.823 34.064 14.5 28.5Z" fill="#163D34"/>
+  <circle cx="26" cy="13.5" r="2.5" fill="#163D34"/>
+  <text x="60" y="32.5" fill="#FFFFFF" font-family="Arial Rounded MT Bold, Nunito Sans, Arial, sans-serif" font-size="24" font-weight="700">Dastarkhan</text>
+  <text x="61" y="45" fill="#FFFFFF" opacity="0.62" font-family="Arial, sans-serif" font-size="7.5" font-weight="700" letter-spacing="1.5">TABLES &amp; MOMENTS</text>
+</svg>
